@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-//ostekak
+//ostekake
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().
